@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
 
-- 🤝 I’m looking for help with [HealthCheck](https://github.com/Shibbaz/HealthCheck)
-
 - 💬 Ask me about **Ruby**
 
 - 📫 How to reach me **kmosc@protonmail.com**
