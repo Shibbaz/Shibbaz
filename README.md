@@ -1,7 +1,10 @@
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6.svg)](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6)
+<!--END_SECTION:waka-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbaz&label=Profile%20views&color=0e75b6&style=flat" alt="shibbaz" /> </p>
+
 <h1 align="center">Hi 👋, I'm Kamil Mościszko</h1>
 <h3 align="center">A passionate Ruby developer from Poland</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbaz&label=Profile%20views&color=0e75b6&style=flat" alt="shibbaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibbaz" alt="shibbaz" /></a> </p>
 
@@ -26,6 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kamilmos"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kamilmos" /></a></p><br><br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
