@@ -1,23 +1,21 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbaz&label=Profile%20views&color=0e75b6&style=flat" alt="shibbaz" /> </p>
+
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6.svg)](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6)
 <!--END_SECTION:waka-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbaz&label=Profile%20views&color=0e75b6&style=flat" alt="shibbaz" /> </p>
-
 <h1 align="center">Hi 👋, I'm Kamil Mościszko</h1>
-<h3 align="center">A passionate Ruby developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibbaz" alt="shibbaz" /></a> </p>
+<h3 align="center"> <img src="https://github.com/Shibbaz/github-stats/blob/master/generated/overview.svg" alt="shibbaz" /></h3>
 
-- 🔭 I’m currently working on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+                            - 🔭 I’m currently working on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
 
-- 🌱 I’m currently learning **Typescript**
+                            - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+                            - 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
 
-- 💬 Ask me about **Ruby**
+                            - 💬 Ask me about **Ruby**
 
-- 📫 How to reach me **kmosc@protonmail.com**
-
+                            - 📫 How to reach me **kmosc@protonmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamilm97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilm97" height="30" width="40" /></a>
