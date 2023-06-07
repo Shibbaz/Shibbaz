@@ -28,5 +28,4 @@
 <p><a href="https://ko-fi.com/kamilmos"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kamilmos" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@bc030ab6-6dbf-42ae-875a-23e7f20d723f/c5660ae9-d4a7-4c78-88ee-647dedb0a18e.svg"></embed></figure>
 <!--END_SECTION:waka-->
