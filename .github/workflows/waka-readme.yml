@@ -21,4 +21,5 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           SHOW_PROJECTS: true
+          SHOW_COMMIT: true
 
