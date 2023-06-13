@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Kamil Mościszko<h3 align="right">
 
 
-- 🔭 I’m currently working on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+    - 🔭 I’m currently working on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
 
-- 🌱 I’m currently learning **Typescript**
+    - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+    - 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
 
-- 💬 Ask me about **Ruby**
+    - 💬 Ask me about **Ruby**
 
-- 📫 How to reach me **kmosc@protonmail.com**
+    - 📫 How to reach me **kmosc@protonmail.com**
   
 <h3 align="left">Statistics:</h3>
 <!--START_SECTION:waka-->
