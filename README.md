@@ -1,7 +1,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbaz&label=Profile%20views&color=0e75b6&style=flat" alt="shibbaz" /> </p>
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6.svg)](https://wakatime.com/badge/user/bc030ab6-6dbf-42ae-875a-23e7f20d723f/project/de35ed49-ca72-45e2-a5c9-48014fc49dd6)
+
+```txt
+From: 05 June 2023 - To: 12 June 2023
+
+Total Time: 43 hrs 19 mins
+
+Ruby         38 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.69 %
+YAML         2 hrs 56 mins   >>-----------------------   06.80 %
+Other        39 mins         -------------------------   01.51 %
+Bash         29 mins         -------------------------   01.13 %
+GraphQL      6 mins          -------------------------   00.24 %
+HTML         5 mins          -------------------------   00.20 %
+Jade         4 mins          -------------------------   00.17 %
+TypeScript   3 mins          -------------------------   00.14 %
+ERB          1 min           -------------------------   00.05 %
+Git          0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
 <h1 align="center">Hi 👋, I'm Kamil Mościszko</h1>
 
