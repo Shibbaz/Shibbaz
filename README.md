@@ -14,6 +14,24 @@
                 - 📫 How to reach me **kmosc@protonmail.com**
 <h3 align="left">Statistics:</h3>
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 June 2023 - To: 12 June 2023
+
+Total Time: 43 hrs 19 mins
+
+Ruby         38 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.69 %
+YAML         2 hrs 56 mins   >>-----------------------   06.80 %
+Other        39 mins         -------------------------   01.51 %
+Bash         29 mins         -------------------------   01.13 %
+GraphQL      6 mins          -------------------------   00.24 %
+HTML         5 mins          -------------------------   00.20 %
+Jade         4 mins          -------------------------   00.17 %
+TypeScript   3 mins          -------------------------   00.14 %
+ERB          1 min           -------------------------   00.05 %
+Git          0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
