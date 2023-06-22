@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Kamil Mościszko<h3 align="right">
 
 
-    - 🔭 I’m currently working on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+    - 🔭 I’m currently working on [Graphs-Demo](https://github.com/Shibbaz/Graphs-Demo)
 
     - 🌱 I’m currently learning **Typescript**
 
-    - 👯 I’m looking to collaborate on [HealthCheck](https://github.com/Shibbaz/HealthCheck)
+    - 👯 I’m looking to collaborate on [Graphs-Demo](https://github.com/Shibbaz/Graphs-Demo)
 
-    - 💬 Ask me about **Ruby**
+    - 💬 Ask me about **Ruby, Ruby on Rails**
 
     - 📫 How to reach me **kmosc@protonmail.com**
   
