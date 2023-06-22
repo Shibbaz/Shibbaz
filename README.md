@@ -5,7 +5,7 @@
 
     - 🔭 I’m currently working on [Graphs-Demo](https://github.com/Shibbaz/Graphs-Demo)
 
-    - 🌱 I’m currently learning **Typescript**
+    - 🌱 I’m currently learning **Typescript, more into Graphql and Microservices**
 
     - 👯 I’m looking to collaborate on [Graphs-Demo](https://github.com/Shibbaz/Graphs-Demo)
 
