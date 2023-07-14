@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 11 July 2023
+From: 05 June 2023 - To: 12 July 2023
 
-Total Time: 271 hrs 41 mins
+Total Time: 273 hrs 53 mins
 
-Ruby            140 hrs 33 mins >>>>>>>>>>>>>------------   51.73 %
-TypeScript      54 hrs 36 mins  >>>>>--------------------   20.10 %
-Go              53 hrs 18 mins  >>>>>--------------------   19.62 %
-YAML            5 hrs 42 mins   >------------------------   02.10 %
-Other           4 hrs 58 mins   -------------------------   01.83 %
+Ruby            140 hrs 33 mins >>>>>>>>>>>>>------------   51.32 %
+Go              55 hrs 27 mins  >>>>>--------------------   20.25 %
+TypeScript      54 hrs 36 mins  >>>>>--------------------   19.94 %
+YAML            5 hrs 42 mins   >------------------------   02.08 %
+Other           5 hrs           -------------------------   01.83 %
 GraphQL         2 hrs 34 mins   -------------------------   00.94 %
 Bash            2 hrs 12 mins   -------------------------   00.81 %
 JavaScript      2 hrs 10 mins   -------------------------   00.80 %
